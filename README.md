@@ -1,8 +1,8 @@
-<h1 align="left">Olá, tudo bem? 👋</h1>
+<h1 align="left">Olá, bem vindo ao meu GitHub 👋</h1>
 
 ###
 
-<p align="left">Me chamo Victor Siqueira, sou graduando em engenharia eletrônica e de computação pela Universidade Federal do Rio de Janeiro (UFRJ), e estagiário da C capital, onde realizo projetos na área de Data Science/ ML   / Deep Learning</p>
+<p align="left">Me chamo Victor Siqueira, sou graduando em engenharia eletrônica e de computação pela Universidade Federal do Rio de Janeiro (UFRJ), e estagiário da C capital, onde realizo projetos na área de Data Science/ ML  / Deep Learning</p>
 
 ###
 
@@ -53,8 +53,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorsiq0222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/victorsiq0222/victorsiq0222/output/snake.svg" alt="Snake animation" />
-
-###
