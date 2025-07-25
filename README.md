@@ -1,4 +1,4 @@
-<h1 align="left">Olá, Bem vindo ao meu github! 👋</h1>
+<h1 align="left">Olá, tudo bem? 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since :2018 <br>📚 courses : Tenho cursos pela edx (harvard) em ciência da computação e em aprendizado de máquina pela Udemy. <br>🎯goal: Fazer diferença na vida das pessoas com os avanços da IA e ciência de dados.<br>🎲 Fun fact: gosto de ler, tocar instrumentos e fui atleta de vôlei.</p>
+<p align="left">✨ Codando desde : 2018<br>📚 cursos : Tenho cursos pela edx(harvard) em ciência da computação e em aprendizado de máquina pela Udemy. <br>🎯goal: Fazer diferença na vida das pessoas com os avanços da IA e ciência de dados.<br>🎲 Fun fact: gosto de ler, tocar instrumentos e fui atleta de vôlei.</p>
 
 ###
 
@@ -48,17 +48,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorsiq0222/victorsiq0222/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorsiq0222/victorsiq0222/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/victorsiq0222/victorsiq0222/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorsiq0222&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorsiq0222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/victorsiq0222/victorsiq0222/output/snake.svg" alt="Snake animation" />
 
 ###
