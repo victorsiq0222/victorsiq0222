@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Codando desde : 2018<br>📚 cursos : Tenho cursos pela edx(harvard) em ciência da computação e em aprendizado de máquina pela Udemy. <br>🎯goal: Fazer diferença na vida das pessoas com os avanços da IA e ciência de dados.<br>🎲 Fun fact: gosto de ler, tocar instrumentos e fui atleta de vôlei.</p>
+<p align="left">✨ Coding since : 2018<br>📚 Courses : Tenho cursos pela edx(harvard) em ciência da computação e em aprendizado de máquina pela Udemy. <br>🎯Goal : Fazer diferença na vida das pessoas com os avanços da IA e ciência de dados.<br>🎲 Fun fact : gosto de ler, tocar instrumentos e fui atleta de vôlei.</p>
 
 ###
 
