@@ -1,4 +1,4 @@
-<h1 align="left">Olá, tudo bem? 👋</h1>
+<h1 align="left">Olá, Bem vindo ao meu github! 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since : 2018<br>📚 courses : Tenho cursos pela edx( (harvard) em ciência da computação e em aprendizado de máquina pela Udemy. <br>🎯goal: Fazer diferença na vida das pessoas com os avanços da IA e ciência de dados.<br>🎲 Fun fact: gosto de ler, tocar instrumentos e fui atleta de vôlei.</p>
+<p align="left">✨ Coding since :2018 <br>📚 courses : Tenho cursos pela edx (harvard) em ciência da computação e em aprendizado de máquina pela Udemy. <br>🎯goal: Fazer diferença na vida das pessoas com os avanços da IA e ciência de dados.<br>🎲 Fun fact: gosto de ler, tocar instrumentos e fui atleta de vôlei.</p>
 
 ###
 
